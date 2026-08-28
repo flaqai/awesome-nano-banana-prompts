@@ -1,0 +1,32 @@
+collection: awesome-nano-banana-pro-prompts
+owner: Flaq.ai
+created_at: 2026-08-28
+provenance_note: >-
+  Original project illustrations created with the Codex built-in image generation tool.
+  They are non-Gemini editorial references and are not Nano Banana Pro benchmark outputs.
+assets:
+  - file: luma-tea-poster.png
+    title: Luma Tea multilingual product launch poster
+    source_recipe: prompts/01-brand-and-advertising.md#1-multilingual-product-launch-key-visual
+    aspect_ratio: "4:5"
+    post_processing: copy and filename only
+  - file: heat-pump-infographic.png
+    title: How a Heat Pump Moves Heat infographic
+    source_recipe: prompts/04-infographics-and-education.md#2-scientific-cross-section
+    aspect_ratio: "16:9"
+    post_processing: copy and filename only
+  - file: stillroom-mobile-ui.png
+    title: Stillroom mobile inventory UI
+    source_recipe: prompts/05-ui-app-and-web.md#1-mobile-app-home-screen
+    aspect_ratio: "9:16"
+    post_processing: copy and filename only
+  - file: nori-character-sheet.png
+    title: Nori original character anchor sheet
+    source_recipe: prompts/06-characters-and-storytelling.md#1-original-character-anchor-sheet
+    aspect_ratio: "3:2"
+    post_processing: copy and filename only
+  - file: pine-and-bowl-special.png
+    title: Pine and Bowl weekly special poster
+    source_recipe: prompts/10-local-business-campaigns.md#1-restaurant-weekly-special-poster
+    aspect_ratio: "4:5"
+    post_processing: copy and filename only
