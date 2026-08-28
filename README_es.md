@@ -10,7 +10,7 @@
 
 ## Qué incluye
 
-El repositorio reúne **55 recetas originales en 11 categorías**: publicidad, comercio electrónico, redes sociales, infografías, educación, UI, personajes, storyboards, fotografía, edición precisa, localización, comunicación empresarial y campañas para negocios locales.
+El repositorio reúne **100 recetas originales en 20 categorías**: publicidad, comercio electrónico, redes sociales, infografías, UI, personajes, fotografía, arquitectura, moda, viajes, animales y botánica, tipografía, juegos, historia, publicación, edición precisa, localización y comunicación empresarial.
 
 Cada receta define el objetivo, la composición, la función de las imágenes de referencia, el texto literal, los elementos bloqueados y la revisión final. No es una recopilación de prompts de terceros sin atribución.
 
@@ -44,4 +44,3 @@ La elegibilidad, atribución, reembolsos, contracargos, revisión de riesgo y pa
 ## Licencia
 
 El texto original y el código se publican bajo la [licencia MIT](LICENSE). Los resultados generados también dependen de las condiciones del servicio y de los derechos de los materiales de entrada.
-

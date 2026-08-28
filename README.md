@@ -5,7 +5,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Model](https://img.shields.io/badge/model-gemini--3--pro--image-6d5dfc)](https://ai.google.dev/gemini-api/docs/models/gemini-3-pro-image)
-[![Prompts](https://img.shields.io/badge/original%20recipes-50%2B-brightgreen)](prompts/)
+[![Prompts](https://img.shields.io/badge/original%20recipes-100-brightgreen)](prompts/)
 [![README languages](https://img.shields.io/badge/README%20languages-15-blue)](#awesome-nano-banana-pro-prompts)
 [![Prompt locales](https://img.shields.io/badge/prompt%20locales-8-5b8def)](docs/multilingual-prompting.md)
 
@@ -19,9 +19,9 @@ Build product ads, e-commerce images, multilingual posters, infographics, UI con
 
 ## Why this library is useful
 
-- **50+ original prompt recipes:** practical briefs instead of vague style fragments.
+- **100 original prompt recipes:** practical briefs instead of vague style fragments.
 - **15 README languages:** localized entry points for a global creator and developer community.
-- **11 production categories:** marketing, commerce, education, UI, storytelling, editing, business, local campaigns, and more.
+- **20 production categories:** marketing, commerce, education, UI, storytelling, architecture, fashion, publishing, games, history, editing, business, and more.
 - **Nano Banana Pro-native patterns:** role-labelled reference images, locked edit invariants, exact text blocks, localization, grounding, and multi-turn refinement.
 - **Multilingual by design:** examples and localization workflows for English, Simplified Chinese, Traditional Chinese, Japanese, Korean, Spanish, French, and German.
 - **Commercial workflow notes:** aspect ratios, typography, safe zones, output QA, iteration instructions, and platform-specific adaptations.
@@ -109,6 +109,15 @@ The detailed explanation, retry patterns, and quality checklist live in the [Nan
 | [Business & productivity](prompts/09-business-and-productivity.md) | Pitch slide, report cover, workflow, roadmap, dashboard summary | 5 |
 | [Local business campaigns](prompts/10-local-business-campaigns.md) | Restaurant, retail, fitness, real estate, tourism | 5 |
 | [Style lab](prompts/11-style-lab.md) | Isometric, clay, watercolor, paper craft, pixel art | 5 |
+| [Architecture, interiors & real estate](prompts/12-architecture-interiors-and-real-estate.md) | Floor-plan visualization, renovation, retail, axonometric, facade | 5 |
+| [Fashion, beauty & lookbooks](prompts/13-fashion-beauty-and-lookbooks.md) | Lookbook, beauty macro, try-on, colorway, runway editorial | 5 |
+| [Travel, landscapes & vehicles](prompts/14-travel-landscapes-and-vehicles.md) | Weather, road trip, vehicle concept, aerial guide, transit poster | 5 |
+| [Animals, creatures & botanicals](prompts/15-animals-creatures-and-botanicals.md) | Wildlife, pets, creature anatomy, botanical plate, ecosystem | 5 |
+| [Typography, logos & editorial](prompts/16-typography-logos-and-editorial.md) | Type specimen, logo system, cover, lettering, wayfinding | 5 |
+| [Game assets, 3D & industrial](prompts/17-game-assets-3d-and-industrial.md) | Sprites, modular kits, item atlas, cutaway, gameplay HUD | 5 |
+| [History, culture & heritage](prompts/18-history-culture-and-heritage.md) | Period scene, museum panel, scroll, artifact, craft | 5 |
+| [Documents & publishing](prompts/19-documents-and-publishing.md) | White paper, manual, reference plate, annual report, workbook | 5 |
+| [Profiles, teams & lifestyle](prompts/20-profiles-teams-and-lifestyle.md) | Headshot, team portrait, persona, avatars, remote mosaic | 5 |
 
 ## Original scene gallery
 

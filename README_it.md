@@ -10,7 +10,7 @@
 
 ## Contenuto
 
-Il repository include **55 ricette originali in 11 categorie**: pubblicità, e-commerce, social media, infografiche, formazione, UI, personaggi, storyboard, fotografia, editing controllato, localizzazione, comunicazione aziendale e campagne locali.
+Il repository include **100 ricette originali in 20 categorie**: pubblicità, e-commerce, social media, infografiche, UI, personaggi, fotografia, architettura, moda, viaggi, animali e botanica, tipografia, giochi, storia, pubblicazione, editing controllato e localizzazione.
 
 Ogni ricetta specifica obiettivo, composizione, ruolo delle immagini di riferimento, testo letterale, elementi bloccati e controllo finale. Non è una raccolta di prompt altrui ripubblicati senza attribuzione.
 
@@ -44,4 +44,3 @@ Idoneità, attribuzione, rimborsi, chargeback, controlli di rischio e pagamenti 
 ## Licenza
 
 Testi originali e codice sono distribuiti con [licenza MIT](LICENSE). Gli output generati sono soggetti anche ai termini del servizio utilizzato e ai diritti sugli input.
-

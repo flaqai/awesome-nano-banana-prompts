@@ -10,7 +10,7 @@
 
 ## Nội dung dự án
 
-Kho lưu trữ gồm **55 công thức nguyên bản trong 11 nhóm**: quảng cáo, thương mại điện tử, mạng xã hội, đồ họa thông tin, giáo dục, UI, nhân vật, storyboard, nhiếp ảnh, chỉnh sửa có kiểm soát, bản địa hóa, tài liệu kinh doanh và chiến dịch cho doanh nghiệp địa phương.
+Kho lưu trữ gồm **100 công thức nguyên bản trong 20 nhóm**: quảng cáo, thương mại điện tử, mạng xã hội, đồ họa thông tin, UI, nhân vật, nhiếp ảnh, kiến trúc, thời trang, du lịch, động thực vật, kiểu chữ, trò chơi, lịch sử, xuất bản, chỉnh sửa có kiểm soát và bản địa hóa.
 
 Mỗi công thức xác định mục tiêu, bố cục, vai trò của ảnh tham chiếu, nội dung phải hiển thị nguyên văn, các yếu tố không được thay đổi và bước kiểm tra cuối. Đây không phải là bộ sưu tập prompt của người khác bị xóa nguồn.
 
@@ -44,4 +44,3 @@ Nhà phát triển, người xây dựng Agent, nhà sáng tạo, người đán
 ## Giấy phép
 
 Nội dung nguyên bản và mã được phát hành theo [Giấy phép MIT](LICENSE). Kết quả tạo sinh còn phụ thuộc vào điều khoản dịch vụ và quyền đối với tài liệu đầu vào.
-

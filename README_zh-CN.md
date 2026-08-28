@@ -8,7 +8,7 @@
 
 [提示词目录](prompts/) · [完整方法论](docs/prompting-guide.md) · [多语言指南](docs/multilingual-prompting.md) · [API 快速上手](docs/api-quickstart.md)
 
-这个项目面向真实生产场景，而不是简单堆砌风格关键词。仓库收录 **11 个分类、55 条原创提示词配方**，覆盖品牌广告、电商产品图、社交媒体、信息图、UI 设计、角色与分镜、摄影、图片编辑、本地化、商业表达和本地商家营销。
+这个项目面向真实生产场景，而不是简单堆砌风格关键词。仓库收录 **20 个分类、100 条原创提示词配方**，覆盖品牌广告、电商、社交媒体、信息图、UI、角色与分镜、摄影、建筑、时尚、旅行、动植物、字体、游戏、历史文化、出版、图片编辑、本地化、商业表达和本地商家营销。
 
 ## 项目亮点
 
@@ -96,6 +96,15 @@
 - [路演页、流程图与路线图](prompts/09-business-and-productivity.md)
 - [餐厅、健身、地产和旅游营销](prompts/10-local-business-campaigns.md)
 - [等距 3D、黏土、水彩、剪纸与像素风](prompts/11-style-lab.md)
+- [建筑、室内、空间改造与地产可视化](prompts/12-architecture-interiors-and-real-estate.md)
+- [时尚、美妆、虚拟试穿与 Lookbook](prompts/13-fashion-beauty-and-lookbooks.md)
+- [旅行、景观、交通与汽车概念](prompts/14-travel-landscapes-and-vehicles.md)
+- [野生动物、宠物、幻想生物与植物图鉴](prompts/15-animals-creatures-and-botanicals.md)
+- [字体、Logo、编辑设计与导视系统](prompts/16-typography-logos-and-editorial.md)
+- [游戏精灵、模块场景、物品图集与工业剖面](prompts/17-game-assets-3d-and-industrial.md)
+- [历史场景、博物馆、文化遗产与传统工艺](prompts/18-history-culture-and-heritage.md)
+- [白皮书、说明书、年报与出版版面](prompts/19-documents-and-publishing.md)
+- [职业头像、团队合影、用户画像与社区头像](prompts/20-profiles-teams-and-lifestyle.md)
 
 ## 多语言制作建议
 

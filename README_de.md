@@ -10,7 +10,7 @@
 
 ## Inhalt
 
-Das Repository enthält **55 eigenständige Rezepte in 11 Kategorien**: Werbung, E-Commerce, Social Media, Infografiken, Bildung, UI, Charaktere, Storyboards, Fotografie, kontrollierte Bildbearbeitung, Lokalisierung, Geschäftskommunikation und lokale Kampagnen.
+Das Repository enthält **100 eigenständige Rezepte in 20 Kategorien**: Werbung, E-Commerce, Social Media, Infografiken, UI, Charaktere, Fotografie, Architektur, Mode, Reisen, Tiere und Pflanzen, Typografie, Spiele, Geschichte, Publikationen, kontrollierte Bildbearbeitung und Lokalisierung.
 
 Jedes Rezept beschreibt Ziel, Komposition, Rollen der Referenzbilder, exakten Bildtext, unveränderliche Elemente und die abschließende Qualitätskontrolle. Es handelt sich nicht um eine Sammlung kopierter Prompts ohne Quellenangabe.
 
@@ -44,4 +44,3 @@ Teilnahme, Zuordnung, Erstattungen, Rückbuchungen, Risikoprüfung und Auszahlun
 ## Lizenz
 
 Originaltexte und Code stehen unter der [MIT-Lizenz](LICENSE). Für generierte Ergebnisse gelten zusätzlich die Nutzungsbedingungen des verwendeten Dienstes und die Rechte an den Eingabematerialien.
-

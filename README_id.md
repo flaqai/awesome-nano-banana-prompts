@@ -10,7 +10,7 @@
 
 ## Isi proyek
 
-Repositori ini menyediakan **55 resep orisinal dalam 11 kategori**: iklan, e-commerce, media sosial, infografik, pendidikan, UI, karakter, storyboard, fotografi, penyuntingan terkendali, pelokalan, komunikasi bisnis, dan kampanye usaha lokal.
+Repositori ini menyediakan **100 resep orisinal dalam 20 kategori**: iklan, e-commerce, media sosial, infografik, UI, karakter, fotografi, arsitektur, mode, perjalanan, hewan dan botani, tipografi, game, sejarah, penerbitan, penyuntingan terkendali, dan pelokalan.
 
 Setiap resep menjelaskan tujuan, komposisi, peran gambar referensi, teks yang harus ditampilkan persis, elemen yang tidak boleh berubah, dan pemeriksaan akhir. Ini bukan kumpulan prompt pihak lain yang dihapus atribusinya.
 
@@ -44,4 +44,3 @@ Kelayakan, atribusi, pengembalian dana, chargeback, tinjauan risiko, dan pembaya
 ## Lisensi
 
 Teks orisinal dan kode dirilis dengan [Lisensi MIT](LICENSE). Hasil generasi juga tunduk pada ketentuan layanan yang digunakan dan hak atas materi masukan.
-

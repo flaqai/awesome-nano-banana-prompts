@@ -1,6 +1,6 @@
 # Prompt Library
 
-The library contains 55 original, production-oriented recipes. Replace `{{placeholders}}`, remove blocks you do not need, and keep the quality locks during every edit.
+The library contains 100 original, production-oriented recipes. Replace `{{placeholders}}`, remove blocks you do not need, and keep the quality locks during every edit.
 
 | # | Collection | Recipes |
 |---:|---|---:|
@@ -15,6 +15,14 @@ The library contains 55 original, production-oriented recipes. Replace `{{placeh
 | 09 | [Business & productivity](09-business-and-productivity.md) | 5 |
 | 10 | [Local business campaigns](10-local-business-campaigns.md) | 5 |
 | 11 | [Style lab](11-style-lab.md) | 5 |
+| 12 | [Architecture, interiors & real estate](12-architecture-interiors-and-real-estate.md) | 5 |
+| 13 | [Fashion, beauty & lookbooks](13-fashion-beauty-and-lookbooks.md) | 5 |
+| 14 | [Travel, landscapes & vehicles](14-travel-landscapes-and-vehicles.md) | 5 |
+| 15 | [Animals, creatures & botanicals](15-animals-creatures-and-botanicals.md) | 5 |
+| 16 | [Typography, logos & editorial](16-typography-logos-and-editorial.md) | 5 |
+| 17 | [Game assets, 3D & industrial](17-game-assets-3d-and-industrial.md) | 5 |
+| 18 | [History, culture & heritage](18-history-culture-and-heritage.md) | 5 |
+| 19 | [Documents & publishing](19-documents-and-publishing.md) | 5 |
+| 20 | [Profiles, teams & lifestyle](20-profiles-teams-and-lifestyle.md) | 5 |
 
 See the [prompting guide](../docs/prompting-guide.md) before adapting advanced editing or multi-reference recipes.
-

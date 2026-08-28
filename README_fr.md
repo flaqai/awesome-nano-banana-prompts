@@ -10,7 +10,7 @@
 
 ## Contenu du projet
 
-Le dépôt propose **55 recettes originales réparties dans 11 catégories** : publicité, e-commerce, réseaux sociaux, infographies, éducation, interfaces, personnages, storyboards, photographie, retouche contrôlée, localisation, communication d'entreprise et campagnes locales.
+Le dépôt propose **100 recettes originales réparties dans 20 catégories** : publicité, e-commerce, réseaux sociaux, infographies, interfaces, personnages, photographie, architecture, mode, voyage, faune et botanique, typographie, jeux, histoire, édition, retouche contrôlée et localisation.
 
 Chaque recette précise le livrable, la composition, le rôle des images de référence, le texte exact, les éléments à préserver et les contrôles qualité. Il ne s'agit pas d'une collection de prompts tiers dont l'attribution aurait été supprimée.
 
@@ -44,4 +44,3 @@ L'éligibilité, l'attribution, les remboursements, les contestations, le contr�
 ## Licence
 
 Le texte original et le code sont publiés sous [licence MIT](LICENSE). Les résultats générés restent soumis aux conditions du service utilisé et aux droits des ressources d'entrée.
-

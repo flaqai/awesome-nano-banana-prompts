@@ -10,7 +10,7 @@
 
 ## O que está incluído
 
-O projeto reúne **55 receitas originais em 11 categorias**: publicidade, comércio eletrônico, redes sociais, infográficos, educação, UI, personagens, storyboards, fotografia, edição controlada, localização, comunicação empresarial e campanhas para negócios locais.
+O projeto reúne **100 receitas originais em 20 categorias**: publicidade, comércio eletrônico, redes sociais, infográficos, UI, personagens, fotografia, arquitetura, moda, viagens, animais e botânica, tipografia, jogos, história, publicação, edição controlada e localização.
 
 Cada receita define o objetivo, a composição, o papel das imagens de referência, o texto exato, as partes que não podem mudar e a revisão final. Não é uma coletânea de prompts copiados sem atribuição.
 
@@ -44,4 +44,3 @@ Elegibilidade, atribuição, reembolsos, estornos, análise de risco e pagamento
 ## Licença
 
 O texto original e o código são publicados sob a [Licença MIT](LICENSE). Os resultados gerados também estão sujeitos aos termos do serviço usado e aos direitos dos materiais de entrada.
-
