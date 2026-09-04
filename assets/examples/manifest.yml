@@ -30,3 +30,63 @@ assets:
     source_recipe: prompts/10-local-business-campaigns.md#1-restaurant-weekly-special-poster
     aspect_ratio: "4:5"
     post_processing: copy and filename only
+  - file: outdoor-billboard-nightlink.webp
+    title: NightLink late-night transit billboard
+    source_recipe: prompts/01-brand-and-advertising.md#2-outdoor-billboard-with-instant-readability
+    generated_at: 2026-09-04
+    aspect_ratio: "1:1"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: marketplace-portable-speaker.webp
+    title: Original portable speaker marketplace packshot
+    source_recipe: prompts/02-ecommerce-and-product.md#1-marketplace-hero-packshot
+    generated_at: 2026-09-04
+    aspect_ratio: "1:1"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: car-free-city-youtube-thumbnail.webp
+    title: Car-free city YouTube thumbnail
+    source_recipe: prompts/03-social-and-creator.md#1-youtube-thumbnail-with-one-idea
+    generated_at: 2026-09-04
+    aspect_ratio: "1:1"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: sourdough-process-infographic.webp
+    title: Sourdough starter-to-loaf process infographic
+    source_recipe: prompts/04-infographics-and-education.md#1-process-infographic
+    generated_at: 2026-09-04
+    aspect_ratio: "1:1"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: subscription-revenue-dashboard.webp
+    title: Subscription revenue operations dashboard
+    source_recipe: prompts/05-ui-app-and-web.md#2-saas-analytics-dashboard
+    generated_at: 2026-09-04
+    aspect_ratio: "1:1"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: milo-rainwater-silent-comic.webp
+    title: Milo rainwater four-panel silent comic
+    source_recipe: prompts/06-characters-and-storytelling.md#2-four-panel-silent-comic
+    generated_at: 2026-09-04
+    aspect_ratio: "1:1"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: ceramicist-editorial-portrait.webp
+    title: Ceramicist natural editorial portrait
+    source_recipe: prompts/07-photography-and-editorial.md#1-natural-editorial-portrait
+    generated_at: 2026-09-04
+    aspect_ratio: "1:1"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: amber-pendant-object-replacement.webp
+    title: Amber pendant completed object replacement
+    source_recipe: prompts/08-editing-and-localization.md#1-precise-object-replacement
+    generated_at: 2026-09-04
+    aspect_ratio: "1:1"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: cliffside-observatory-pixel-art.webp
+    title: Cliffside observatory pixel-art environment
+    source_recipe: prompts/11-style-lab.md#5-pixel-art-game-environment
+    generated_at: 2026-09-04
+    aspect_ratio: "1:1"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: specified-living-room-interior.webp
+    title: Specified living-room photoreal interior
+    source_recipe: prompts/12-architecture-interiors-and-real-estate.md#1-floor-plan-to-photoreal-interior
+    generated_at: 2026-09-04
+    aspect_ratio: "1:1"
+    post_processing: ffmpeg WebP quality 82, compression level 6
