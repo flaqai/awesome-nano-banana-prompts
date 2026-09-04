@@ -90,3 +90,513 @@ assets:
     generated_at: 2026-09-04
     aspect_ratio: "1:1"
     post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 01-3-brand-world-moodboard.webp
+    title: "Brand world moodboard"
+    source_recipe: prompts/01-brand-and-advertising.md#3-brand-world-moodboard
+    generated_at: 2026-09-04
+    aspect_ratio: "16:9"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 01-4-seasonal-retail-campaign-system.webp
+    title: "Seasonal retail campaign system"
+    source_recipe: prompts/01-brand-and-advertising.md#4-seasonal-retail-campaign-system
+    generated_at: 2026-09-04
+    aspect_ratio: "1:1"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 01-5-brand-manifesto-poster.webp
+    title: "Brand manifesto poster"
+    source_recipe: prompts/01-brand-and-advertising.md#5-brand-manifesto-poster
+    generated_at: 2026-09-04
+    aspect_ratio: "2:3"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 02-2-feature-comparison-board.webp
+    title: "Feature comparison board"
+    source_recipe: prompts/02-ecommerce-and-product.md#2-feature-comparison-board
+    generated_at: 2026-09-04
+    aspect_ratio: "4:5"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 02-3-exploded-view-product-story.webp
+    title: "Exploded-view product story"
+    source_recipe: prompts/02-ecommerce-and-product.md#3-exploded-view-product-story
+    generated_at: 2026-09-04
+    aspect_ratio: "3:4"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 02-4-lifestyle-product-fidelity.webp
+    title: "Lifestyle scene with product fidelity"
+    source_recipe: prompts/02-ecommerce-and-product.md#4-lifestyle-scene-with-product-fidelity
+    generated_at: 2026-09-04
+    aspect_ratio: "3:2"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 02-5-variant-family-lineup.webp
+    title: "Variant family lineup"
+    source_recipe: prompts/02-ecommerce-and-product.md#5-variant-family-lineup
+    generated_at: 2026-09-04
+    aspect_ratio: "16:9"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 03-2-educational-carousel-cover.webp
+    title: "Educational carousel cover and system"
+    source_recipe: prompts/03-social-and-creator.md#2-educational-carousel-cover-and-system
+    generated_at: 2026-09-04
+    aspect_ratio: "4:5"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 03-3-podcast-episode-cover.webp
+    title: "Podcast episode cover"
+    source_recipe: prompts/03-social-and-creator.md#3-podcast-episode-cover
+    generated_at: 2026-09-04
+    aspect_ratio: "1:1"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 03-4-event-announcement-post.webp
+    title: "Event announcement post"
+    source_recipe: prompts/03-social-and-creator.md#4-event-announcement-post
+    generated_at: 2026-09-04
+    aspect_ratio: "4:5"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 03-5-editorial-quote-card.webp
+    title: "Quote card without fake attribution"
+    source_recipe: prompts/03-social-and-creator.md#5-quote-card-without-fake-attribution
+    generated_at: 2026-09-04
+    aspect_ratio: "1:1"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 04-3-historical-timeline.webp
+    title: "Historical timeline"
+    source_recipe: prompts/04-infographics-and-education.md#3-historical-timeline
+    generated_at: 2026-09-04
+    aspect_ratio: "21:9"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 04-4-illustrated-city-guide-map.webp
+    title: "Illustrated city guide map"
+    source_recipe: prompts/04-infographics-and-education.md#4-illustrated-city-guide-map
+    generated_at: 2026-09-04
+    aspect_ratio: "4:5"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 04-5-recipe-learning-card.webp
+    title: "Recipe learning card"
+    source_recipe: prompts/04-infographics-and-education.md#5-recipe-learning-card
+    generated_at: 2026-09-04
+    aspect_ratio: "4:5"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 05-3-landing-page-hero-concept.webp
+    title: "Landing-page hero concept"
+    source_recipe: prompts/05-ui-app-and-web.md#3-landing-page-hero-concept
+    generated_at: 2026-09-04
+    aspect_ratio: "16:9"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 05-4-user-flow-wireframe.webp
+    title: "Low-fidelity user-flow wireframe"
+    source_recipe: prompts/05-ui-app-and-web.md#4-low-fidelity-user-flow-wireframe
+    generated_at: 2026-09-04
+    aspect_ratio: "16:9"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 05-5-design-system-specimen.webp
+    title: "Mini design-system specimen"
+    source_recipe: prompts/05-ui-app-and-web.md#5-mini-design-system-specimen
+    generated_at: 2026-09-04
+    aspect_ratio: "3:2"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 06-3-film-storyboard-contact-sheet.webp
+    title: "Film storyboard contact sheet"
+    source_recipe: prompts/06-characters-and-storytelling.md#3-film-storyboard-contact-sheet
+    generated_at: 2026-09-04
+    aspect_ratio: "16:9"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 06-4-childrens-book-spread.webp
+    title: "Children's-book double-page spread"
+    source_recipe: prompts/06-characters-and-storytelling.md#4-childrens-book-double-page-spread
+    generated_at: 2026-09-04
+    aspect_ratio: "2:1"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 06-5-character-scene-continuation.webp
+    title: "Character-consistent scene continuation"
+    source_recipe: prompts/06-characters-and-storytelling.md#5-character-consistent-scene-continuation
+    generated_at: 2026-09-04
+    aspect_ratio: "3:2"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 07-2-food-editorial-hero.webp
+    title: "Food editorial hero"
+    source_recipe: prompts/07-photography-and-editorial.md#2-food-editorial-hero
+    generated_at: 2026-09-04
+    aspect_ratio: "3:2"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 07-3-architecture-feature-image.webp
+    title: "Architecture feature image"
+    source_recipe: prompts/07-photography-and-editorial.md#3-architecture-feature-image
+    generated_at: 2026-09-04
+    aspect_ratio: "16:9"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 07-4-travel-sense-of-place.webp
+    title: "Travel sense-of-place photograph"
+    source_recipe: prompts/07-photography-and-editorial.md#4-travel-sense-of-place-photograph
+    generated_at: 2026-09-04
+    aspect_ratio: "3:2"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 07-5-magazine-opener-spread.webp
+    title: "Magazine opener spread"
+    source_recipe: prompts/07-photography-and-editorial.md#5-magazine-opener-spread
+    generated_at: 2026-09-04
+    aspect_ratio: "2:1"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 08-2-localized-menu.webp
+    title: "Localized menu without layout drift"
+    source_recipe: prompts/08-editing-and-localization.md#2-localized-menu-without-layout-drift
+    generated_at: 2026-09-04
+    aspect_ratio: "1:1"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 08-3-day-to-night-relighting.webp
+    title: "Day-to-night relighting"
+    source_recipe: prompts/08-editing-and-localization.md#3-day-to-night-relighting
+    generated_at: 2026-09-04
+    aspect_ratio: "1:1"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 08-4-clean-background-extraction.webp
+    title: "Clean background extraction"
+    source_recipe: prompts/08-editing-and-localization.md#4-clean-background-extraction
+    generated_at: 2026-09-04
+    aspect_ratio: "1:1"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 08-5-multi-reference-campaign-composite.webp
+    title: "Multi-reference campaign composite"
+    source_recipe: prompts/08-editing-and-localization.md#5-multi-reference-campaign-composite
+    generated_at: 2026-09-04
+    aspect_ratio: "16:9"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 09-1-investor-pitch-slide.webp
+    title: "Investor pitch slide"
+    source_recipe: prompts/09-business-and-productivity.md#1-investor-pitch-slide
+    generated_at: 2026-09-04
+    aspect_ratio: "16:9"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 09-2-executive-visual-summary.webp
+    title: "Executive one-page visual summary"
+    source_recipe: prompts/09-business-and-productivity.md#2-executive-one-page-visual-summary
+    generated_at: 2026-09-04
+    aspect_ratio: "3:4"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 09-3-operational-workflow-diagram.webp
+    title: "Operational workflow diagram"
+    source_recipe: prompts/09-business-and-productivity.md#3-operational-workflow-diagram
+    generated_at: 2026-09-04
+    aspect_ratio: "16:9"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 09-4-product-roadmap.webp
+    title: "Product roadmap"
+    source_recipe: prompts/09-business-and-productivity.md#4-product-roadmap
+    generated_at: 2026-09-04
+    aspect_ratio: "16:9"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 09-5-report-cover-system.webp
+    title: "Report cover system"
+    source_recipe: prompts/09-business-and-productivity.md#5-report-cover-system
+    generated_at: 2026-09-04
+    aspect_ratio: "3:4"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 10-2-fitness-studio-class-campaign.webp
+    title: "Fitness studio class campaign"
+    source_recipe: prompts/10-local-business-campaigns.md#2-fitness-studio-class-campaign
+    generated_at: 2026-09-04
+    aspect_ratio: "9:16"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 10-3-real-estate-listing-hero.webp
+    title: "Real-estate listing hero"
+    source_recipe: prompts/10-local-business-campaigns.md#3-real-estate-listing-hero
+    generated_at: 2026-09-04
+    aspect_ratio: "3:2"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 10-4-neighborhood-retail-opening.webp
+    title: "Neighborhood retail opening"
+    source_recipe: prompts/10-local-business-campaigns.md#4-neighborhood-retail-opening
+    generated_at: 2026-09-04
+    aspect_ratio: "4:5"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 10-5-regional-tourism-mini-guide.webp
+    title: "Regional tourism mini-guide"
+    source_recipe: prompts/10-local-business-campaigns.md#5-regional-tourism-mini-guide
+    generated_at: 2026-09-04
+    aspect_ratio: "4:5"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 11-1-isometric-city-vignette.webp
+    title: "Isometric city vignette"
+    source_recipe: prompts/11-style-lab.md#1-isometric-city-vignette
+    generated_at: 2026-09-04
+    aspect_ratio: "1:1"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 11-2-tactile-clay-illustration.webp
+    title: "Tactile clay illustration"
+    source_recipe: prompts/11-style-lab.md#2-tactile-clay-illustration
+    generated_at: 2026-09-04
+    aspect_ratio: "4:5"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 11-3-watercolor-field-note.webp
+    title: "Contemporary watercolor field note"
+    source_recipe: prompts/11-style-lab.md#3-contemporary-watercolor-field-note
+    generated_at: 2026-09-04
+    aspect_ratio: "3:2"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 11-4-layered-paper-cut-scene.webp
+    title: "Layered paper-cut scene"
+    source_recipe: prompts/11-style-lab.md#4-layered-paper-cut-scene
+    generated_at: 2026-09-04
+    aspect_ratio: "16:9"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 12-2-controlled-interior-renovation.webp
+    title: "Controlled interior renovation"
+    source_recipe: prompts/12-architecture-interiors-and-real-estate.md#2-controlled-interior-renovation
+    generated_at: 2026-09-04
+    aspect_ratio: "1:1"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 12-3-retail-spatial-concept.webp
+    title: "Retail spatial concept"
+    source_recipe: prompts/12-architecture-interiors-and-real-estate.md#3-retail-spatial-concept
+    generated_at: 2026-09-04
+    aspect_ratio: "3:2"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 12-4-architectural-axonometric-explainer.webp
+    title: "Architectural axonometric explainer"
+    source_recipe: prompts/12-architecture-interiors-and-real-estate.md#4-architectural-axonometric-explainer
+    generated_at: 2026-09-04
+    aspect_ratio: "4:5"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 12-5-facade-material-lighting-study.webp
+    title: "Facade material and lighting study"
+    source_recipe: prompts/12-architecture-interiors-and-real-estate.md#5-facade-material-and-lighting-study
+    generated_at: 2026-09-04
+    aspect_ratio: "16:9"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 13-1-fashion-lookbook-contact-sheet.webp
+    title: "Consistent fashion lookbook contact sheet"
+    source_recipe: prompts/13-fashion-beauty-and-lookbooks.md#1-consistent-fashion-lookbook-contact-sheet
+    generated_at: 2026-09-04
+    aspect_ratio: "3:2"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 13-2-beauty-texture-macro-campaign.webp
+    title: "Beauty texture macro campaign"
+    source_recipe: prompts/13-fashion-beauty-and-lookbooks.md#2-beauty-texture-macro-campaign
+    generated_at: 2026-09-04
+    aspect_ratio: "4:5"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 13-3-identity-preserving-virtual-try-on.webp
+    title: "Identity-preserving virtual try-on"
+    source_recipe: prompts/13-fashion-beauty-and-lookbooks.md#3-identity-preserving-virtual-try-on
+    generated_at: 2026-09-04
+    aspect_ratio: "1:1"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 13-4-colorway-fabric-line-sheet.webp
+    title: "Colorway and fabric line sheet"
+    source_recipe: prompts/13-fashion-beauty-and-lookbooks.md#4-colorway-and-fabric-line-sheet
+    generated_at: 2026-09-04
+    aspect_ratio: "16:9"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 13-5-multi-person-runway-editorial.webp
+    title: "Multi-person runway editorial"
+    source_recipe: prompts/13-fashion-beauty-and-lookbooks.md#5-multi-person-runway-editorial
+    generated_at: 2026-09-04
+    aspect_ratio: "16:9"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 14-1-weather-specific-landscape-editorial.webp
+    title: "Weather-specific landscape editorial"
+    source_recipe: prompts/14-travel-landscapes-and-vehicles.md#1-weather-specific-landscape-editorial
+    generated_at: 2026-09-04
+    aspect_ratio: "3:2"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 14-2-responsible-road-trip-campaign.webp
+    title: "Responsible road-trip campaign"
+    source_recipe: prompts/14-travel-landscapes-and-vehicles.md#2-responsible-road-trip-campaign
+    generated_at: 2026-09-04
+    aspect_ratio: "16:9"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 14-3-vehicle-orthographic-concept-board.webp
+    title: "Vehicle orthographic concept board"
+    source_recipe: prompts/14-travel-landscapes-and-vehicles.md#3-vehicle-orthographic-concept-board
+    generated_at: 2026-09-04
+    aspect_ratio: "16:9"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 14-4-aerial-geographic-explainer.webp
+    title: "Aerial geographic explainer"
+    source_recipe: prompts/14-travel-landscapes-and-vehicles.md#4-aerial-geographic-explainer
+    generated_at: 2026-09-04
+    aspect_ratio: "16:9"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 14-5-public-transit-destination-poster.webp
+    title: "Public-transit destination poster"
+    source_recipe: prompts/14-travel-landscapes-and-vehicles.md#5-public-transit-destination-poster
+    generated_at: 2026-09-04
+    aspect_ratio: "2:3"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 15-1-wildlife-field-guide-plate.webp
+    title: "Wildlife field-guide plate"
+    source_recipe: prompts/15-animals-creatures-and-botanicals.md#1-wildlife-field-guide-plate
+    generated_at: 2026-09-04
+    aspect_ratio: "3:2"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 15-2-identity-preserving-pet-portrait.webp
+    title: "Identity-preserving pet portrait"
+    source_recipe: prompts/15-animals-creatures-and-botanicals.md#2-identity-preserving-pet-portrait
+    generated_at: 2026-09-04
+    aspect_ratio: "4:5"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 15-3-original-creature-anatomy-sheet.webp
+    title: "Original creature anatomy sheet"
+    source_recipe: prompts/15-animals-creatures-and-botanicals.md#3-original-creature-anatomy-sheet
+    generated_at: 2026-09-04
+    aspect_ratio: "16:9"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 15-4-botanical-identification-plate.webp
+    title: "Botanical identification plate"
+    source_recipe: prompts/15-animals-creatures-and-botanicals.md#4-botanical-identification-plate
+    generated_at: 2026-09-04
+    aspect_ratio: "4:5"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 15-5-ecosystem-relationship-scene.webp
+    title: "Ecosystem relationship scene"
+    source_recipe: prompts/15-animals-creatures-and-botanicals.md#5-ecosystem-relationship-scene
+    generated_at: 2026-09-04
+    aspect_ratio: "16:9"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 16-1-multiscript-type-specimen-poster.webp
+    title: "Multiscript type specimen poster"
+    source_recipe: prompts/16-typography-logos-and-editorial.md#1-multiscript-type-specimen-poster
+    generated_at: 2026-09-04
+    aspect_ratio: "2:3"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 16-2-original-logo-exploration-sheet.webp
+    title: "Original logo exploration sheet"
+    source_recipe: prompts/16-typography-logos-and-editorial.md#2-original-logo-exploration-sheet
+    generated_at: 2026-09-04
+    aspect_ratio: "3:2"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 16-3-editorial-cover-grid-system.webp
+    title: "Editorial cover grid system"
+    source_recipe: prompts/16-typography-logos-and-editorial.md#3-editorial-cover-grid-system
+    generated_at: 2026-09-04
+    aspect_ratio: "3:4"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 16-4-physical-material-lettering.webp
+    title: "Physical material lettering"
+    source_recipe: prompts/16-typography-logos-and-editorial.md#4-physical-material-lettering
+    generated_at: 2026-09-04
+    aspect_ratio: "16:9"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 16-5-wayfinding-signage-family.webp
+    title: "Wayfinding signage family"
+    source_recipe: prompts/16-typography-logos-and-editorial.md#5-wayfinding-signage-family
+    generated_at: 2026-09-04
+    aspect_ratio: "16:9"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 17-1-animation-ready-2d-sprite-sheet.webp
+    title: "Animation-ready 2D sprite sheet"
+    source_recipe: prompts/17-game-assets-3d-and-industrial.md#1-animation-ready-2d-sprite-sheet
+    generated_at: 2026-09-04
+    aspect_ratio: "2:1 sprite grid"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 17-2-isometric-modular-environment-kit.webp
+    title: "Isometric modular environment kit"
+    source_recipe: prompts/17-game-assets-3d-and-industrial.md#2-isometric-modular-environment-kit
+    generated_at: 2026-09-04
+    aspect_ratio: "16:9"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 17-3-inventory-item-family.webp
+    title: "Inventory item family"
+    source_recipe: prompts/17-game-assets-3d-and-industrial.md#3-inventory-item-family
+    generated_at: 2026-09-04
+    aspect_ratio: "1:1"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 17-4-industrial-machine-cutaway.webp
+    title: "Industrial machine cutaway"
+    source_recipe: prompts/17-game-assets-3d-and-industrial.md#4-industrial-machine-cutaway
+    generated_at: 2026-09-04
+    aspect_ratio: "3:2"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 17-5-gameplay-hud-original-scene.webp
+    title: "Gameplay HUD over an original scene"
+    source_recipe: prompts/17-game-assets-3d-and-industrial.md#5-gameplay-hud-over-an-original-scene
+    generated_at: 2026-09-04
+    aspect_ratio: "16:9"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 18-1-period-accurate-street-scene.webp
+    title: "Period-accurate street scene"
+    source_recipe: prompts/18-history-culture-and-heritage.md#1-period-accurate-street-scene
+    generated_at: 2026-09-04
+    aspect_ratio: "3:2"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 18-2-museum-exhibit-interpretation-panel.webp
+    title: "Museum exhibit interpretation panel"
+    source_recipe: prompts/18-history-culture-and-heritage.md#2-museum-exhibit-interpretation-panel
+    generated_at: 2026-09-04
+    aspect_ratio: "16:9"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 18-3-classical-scroll-style-narrative.webp
+    title: "Classical scroll-style narrative"
+    source_recipe: prompts/18-history-culture-and-heritage.md#3-classical-scroll-style-narrative
+    generated_at: 2026-09-04
+    aspect_ratio: "21:9"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 18-4-artifact-reconstruction-board.webp
+    title: "Artifact reconstruction board"
+    source_recipe: prompts/18-history-culture-and-heritage.md#4-artifact-reconstruction-board
+    generated_at: 2026-09-04
+    aspect_ratio: "3:2"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 18-5-heritage-craft-process.webp
+    title: "Heritage craft process"
+    source_recipe: prompts/18-history-culture-and-heritage.md#5-heritage-craft-process
+    generated_at: 2026-09-04
+    aspect_ratio: "4:5"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 19-1-white-paper-cover-opening-spread.webp
+    title: "White-paper cover and opening spread"
+    source_recipe: prompts/19-documents-and-publishing.md#1-white-paper-cover-and-opening-spread
+    generated_at: 2026-09-04
+    aspect_ratio: "16:9 presentation"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 19-2-illustrated-user-manual-page.webp
+    title: "Illustrated user-manual page"
+    source_recipe: prompts/19-documents-and-publishing.md#2-illustrated-user-manual-page
+    generated_at: 2026-09-04
+    aspect_ratio: "2:3"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 19-3-encyclopedic-reference-plate.webp
+    title: "Encyclopedic reference plate"
+    source_recipe: prompts/19-documents-and-publishing.md#3-encyclopedic-reference-plate
+    generated_at: 2026-09-04
+    aspect_ratio: "3:2"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 19-4-annual-report-data-spread.webp
+    title: "Annual-report data spread"
+    source_recipe: prompts/19-documents-and-publishing.md#4-annual-report-data-spread
+    generated_at: 2026-09-04
+    aspect_ratio: "2:1"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 19-5-workshop-workbook-page.webp
+    title: "Workshop workbook page"
+    source_recipe: prompts/19-documents-and-publishing.md#5-workshop-workbook-page
+    generated_at: 2026-09-04
+    aspect_ratio: "A4 portrait"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 20-1-consistent-professional-headshot.webp
+    title: "Consistent professional headshot"
+    source_recipe: prompts/20-profiles-teams-and-lifestyle.md#1-consistent-professional-headshot
+    generated_at: 2026-09-04
+    aspect_ratio: "4:5"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 20-2-multi-person-team-portrait.webp
+    title: "Multi-person team portrait"
+    source_recipe: prompts/20-profiles-teams-and-lifestyle.md#2-multi-person-team-portrait
+    generated_at: 2026-09-04
+    aspect_ratio: "16:9"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 20-3-lifestyle-persona-scenario-pack.webp
+    title: "Lifestyle persona scenario pack"
+    source_recipe: prompts/20-profiles-teams-and-lifestyle.md#3-lifestyle-persona-scenario-pack
+    generated_at: 2026-09-04
+    aspect_ratio: "3:2"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 20-4-original-avatar-system.webp
+    title: "Original avatar system"
+    source_recipe: prompts/20-profiles-teams-and-lifestyle.md#4-original-avatar-system
+    generated_at: 2026-09-04
+    aspect_ratio: "1:1"
+    post_processing: ffmpeg WebP quality 82, compression level 6
+  - file: 20-5-remote-team-editorial-mosaic.webp
+    title: "Remote-team editorial mosaic"
+    source_recipe: prompts/20-profiles-teams-and-lifestyle.md#5-remote-team-editorial-mosaic
+    generated_at: 2026-09-04
+    aspect_ratio: "16:9"
+    post_processing: ffmpeg WebP quality 82, compression level 6
